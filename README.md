@@ -8,6 +8,7 @@ Download the dataset from the following link-
 Upload them onto your drive and change the path in cell 3 as per your upload location.
 
 Upload onto Google Colab(No, you dont need a paid version).
-pip install the required libraries as per the import statements in the first cell.
+
+Run pip install to install the required libraries as per the import statements in the first cell.
 
 Run all the cells and view the accuracies of the 6 models.
